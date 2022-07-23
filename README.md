@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/i_am_rohit_0_0" target="blank"><img src="https://img.shields.io/twitter/follow/i_am_rohit_0_0?logo=twitter&style=for-the-badge" alt="i_am_rohit_0_0" /></a> </p>
 
+ <img align="right" alt="Coding" width="400" src="https://monophy.com/media/du3J3cXyzhj75IOgvA/monophy.gif">
+
 - 🌱 I’m currently learning **React,js**
 
 - 💬 Ask me about **html, css and javascript.**
