@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Rohit Ranjan Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A frontend enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzrohit-coder&label=Profile%20views&color=0e75b6&style=flat" alt="itzrohit-coder" /> </p>
 
@@ -9,7 +9,7 @@
 
  <img align="right" alt="Coding" width="400" src="https://monophy.com/media/du3J3cXyzhj75IOgvA/monophy.gif">
 
-- 🌱 I’m currently learning **React,js**
+- 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **html, css and javascript.**
 
