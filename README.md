@@ -8,7 +8,9 @@
 
  <img align="right" alt="Coding" width="400" src="https://monophy.com/media/du3J3cXyzhj75IOgvA/monophy.gif">
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Backend Dev**
+
+- 😊 Looking to contribute on **Open-Source projects.**
 
 - 💬 Ask me about **html, css and javascript.**
 
