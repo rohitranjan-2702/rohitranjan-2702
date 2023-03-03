@@ -5,7 +5,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/rohit_ranjan27?style=social)
 
- <img align="right" alt="Coding" width="400" src="https://monophy.com/media/du3J3cXyzhj75IOgvA/monophy.gif">
+ <img align="right" alt="Coding" width="200" src="https://monophy.com/media/du3J3cXyzhj75IOgvA/monophy.gif">
 
 - 🌱 I’m currently learning **Javascript and DSA.**
 
