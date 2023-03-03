@@ -7,7 +7,7 @@
 
  <img align="right" alt="Coding" width="400" src="https://monophy.com/media/du3J3cXyzhj75IOgvA/monophy.gif">
 
-- 🌱 I’m currently learning **web designing.**
+- 🌱 I’m currently learning **Javascript and DSA.**
 
 - 💬 Open to collaborate in **hackathons and projects.**
 
