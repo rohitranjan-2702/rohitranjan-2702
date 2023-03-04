@@ -11,6 +11,8 @@
 
 - 💬 Open to collaborate in **hackathons and projects.**
 
+- 👀 Looking for **internships and freelance gigs.**
+
 - 📫 How to reach me **rohitranjan2702@gmail.com**
 
 - ⚡ Fun fact **I'm just the way I am.**
