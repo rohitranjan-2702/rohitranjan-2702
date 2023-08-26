@@ -44,7 +44,7 @@
  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" width="90" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/mapbox/mapbox-ar21.svg" alt="firebase" width="80" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="firebase" width="80" height="40"/>
- <img src=" https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg" alt="firebase" width="80" height="40"/>
+ <img src=" https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg" alt="socketio" width="80" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="firebase" width="80" height="40"/>
   <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*BKOvjpzn6SPKs81L.png" alt="firebase" width="80" height="40"/>
    <img src="https://appmaster.io/cdn-cgi/image/width=1024,quality=83,format=auto/api/_files/59cCD9XdmSSxnhKincJr5V/download/" alt="firebase" width="70" height="40"/>
