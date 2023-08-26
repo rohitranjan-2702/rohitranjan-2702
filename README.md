@@ -42,6 +42,10 @@
  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.png" alt="typescript" width="80" height="40"/>
  <img src="https://upload.vectorlogo.zone/logos/nextjs/images/2d3864ef-00e0-4026-ab1d-30e4a98e2899.svg" alt="NextJs" width="80" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" width="90" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/mapbox/mapbox-ar21.svg" alt="firebase" width="90" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="firebase" width="90" height="40"/>
+ 
+ 
 </p>
 
 
