@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AWS and Python.**
 
-- 🚀 Building <a href="https://www.devphilic.tech/">**Devphilic.tech** </a>
+- 🚀 Building <a href="">**Devphilic.tech** </a>
 
 - 💬 Open to collaborate in **hackathons and projects.**
 
