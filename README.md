@@ -1,4 +1,4 @@
- <img align="center" alt="Banner" width="200" src="https://res.cloudinary.com/dsea9iqab/image/upload/v1704891215/nmcjvfy1mmwh2pn3clcz.png">
+ <img align="center" alt="Banner" width="1000" src="https://res.cloudinary.com/dsea9iqab/image/upload/v1704891215/nmcjvfy1mmwh2pn3clcz.png">
 <h1 align="center">Hi 👋, I'm Rohit Ranjan Singh</h1>
 <h3 align="center">A full-stack developer from India</h3>
 
