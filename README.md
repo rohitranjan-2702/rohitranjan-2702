@@ -39,16 +39,14 @@
  <img src="https://www.vectorlogo.zone/logos/js_discord/js_discord-ar21.svg" alt="discordjs" width="90" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="expressjs" width="90" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git-scm" width="90" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="postman" width="80" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.png" alt="typescript" width="80" height="40"/>
  <img src="https://upload.vectorlogo.zone/logos/nextjs/images/2d3864ef-00e0-4026-ab1d-30e4a98e2899.svg" alt="NextJs" width="80" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" width="90" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/mapbox/mapbox-ar21.svg" alt="firebase" width="80" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="firebase" width="80" height="40"/>
- <img src=" https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg" alt="socketio" width="80" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="firebase" width="80" height="40"/>
-  <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*BKOvjpzn6SPKs81L.png" alt="firebase" width="80" height="40"/>
-   <img src="https://appmaster.io/cdn-cgi/image/width=1024,quality=83,format=auto/api/_files/59cCD9XdmSSxnhKincJr5V/download/" alt="firebase" width="70" height="40"/>
+  <img src="https://miro.medium.com/v2/resize:fit:853/1*1DBe4cCQYfpM0oNXl_kH2w.png" alt="firebase" width="120" height="40"/>
+   <img src="https://miro.medium.com/v2/0*kjf1UIfQrTgv_jEw.png" alt="firebase" width="100" height="40"/>
+    <img src="https://skillicons.dev/icons?i=azure,postman,ts,redis,aws,mysql,postgres,prisma,docker,mongodb,redux,supabase,vercel,vitest&theme=light" alt="techstack" />
+
+   
 
 
  
