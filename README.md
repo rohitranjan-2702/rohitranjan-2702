@@ -38,7 +38,7 @@
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="nodejs" width="90" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/js_discord/js_discord-ar21.svg" alt="discordjs" width="90" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="expressjs" width="90" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git-scm" width="90" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git-scm" width="90" height="40" />
  <img src="https://upload.vectorlogo.zone/logos/nextjs/images/2d3864ef-00e0-4026-ab1d-30e4a98e2899.svg" alt="NextJs" width="80" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" width="90" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/mapbox/mapbox-ar21.svg" alt="firebase" width="80" height="40"/>
