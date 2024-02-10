@@ -8,13 +8,13 @@
 
  <img align="right" alt="Coding" width="200" src="https://monophy.com/media/du3J3cXyzhj75IOgvA/monophy.gif">
 
-- 🌱 I’m currently learning **AWS and Python.**
+- 👨🏽‍💻 Full Stack Dev at **@Gizmolab.**
 
-- 🚀 Building <a href="https://openflow.devphilic.tech/">**OpenFlow** </a>
+- ✅ Built and shipped **3 projects for clients @Devphilic** 
 
-- 💬 Open to collaborate in **hackathons and projects.**
+- 🌱 I’m currently learning **to build scalable systems for web.**
 
-- 👀 Looking for **internships and freelance gigs.**
+- 🚀 Building <a href="https://openflow.devphilic.tech/">**OpenFlow** </a> 
 
 - 📫 How to reach me **rohitranjan2702@gmail.com**
 
