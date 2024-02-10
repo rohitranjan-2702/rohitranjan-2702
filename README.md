@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzrohit-coder&label=Profile%20views&color=0e75b6&style=flat" alt="itzrohit-coder" /></p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/rohit_ranjan27?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/rohit_2702?style=social)
 
  <img align="right" alt="Coding" width="200" src="https://monophy.com/media/du3J3cXyzhj75IOgvA/monophy.gif">
 
