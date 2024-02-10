@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Ranjan Singh</h1>
 <h3 align="center">A full-stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itzrohit-coder&label=Profile%20views&color=0e75b6&style=flat" alt="itzrohit-coder" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itzrohit-coder&label=Profile%20views&color=0e75b6&style=flat" alt="itzrohit-coder" /></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/rohit_ranjan27?style=social)
 
@@ -38,35 +38,28 @@
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="nodejs" width="90" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/js_discord/js_discord-ar21.svg" alt="discordjs" width="90" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="expressjs" width="90" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git-scm" width="90" height="40" />
+ <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git-scm" width="90" height="40"/>
  <img src="https://upload.vectorlogo.zone/logos/nextjs/images/2d3864ef-00e0-4026-ab1d-30e4a98e2899.svg" alt="NextJs" width="80" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" width="90" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/mapbox/mapbox-ar21.svg" alt="firebase" width="80" height="40"/>
   <img src="https://miro.medium.com/v2/resize:fit:853/1*1DBe4cCQYfpM0oNXl_kH2w.png" alt="firebase" width="120" height="40"/>
    <img src="https://miro.medium.com/v2/0*kjf1UIfQrTgv_jEw.png" alt="firebase" width="100" height="40"/>
     <img src="https://skillicons.dev/icons?i=azure,postman,ts,redis,aws,mysql,postgres,prisma,docker,mongodb,redux,supabase,vercel,vitest&theme=light" alt="techstack" />
-
-   
-
-
- 
- 
 </p>
 
 
 <br>
 
-<!-- <br>
+<h3 align="center">Some of my recent projects: </h3>
 
-<p align="">
-<a href="https://github.com/KKhushhalR2405">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rohitranjan-2702&show_icons=true&theme=radical&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rohitranjan-2702&layout=compact&langs_count=8&theme=radical"/>
-</a>
-</p> -->
+| Project Name | Description | Link | Techstack |
+| ------------ | ----------- | ---- | ---|
+| OpenFlow  | Contribute to open sourcebased upon your techstack. | [Check Out](https://openflow.devphilic.tech/) | <img src="https://skillicons.dev/icons?i=ts,redis,prisma,next,mongodb,tailwind&theme=dark" alt="techstack" />
+| Chat-app  | Anonymopus chat app, to chat anywhere. | [Check Out](https://nextjsapp-u592.onrender.com/chat) |<img src="https://skillicons.dev/icons?i=ts,supabase,next,docker,tailwind&theme=dark" alt="techstack"/>
+| OS-Pilot | Chat with open-source repos. | [Check Out](#) | <img src="https://skillicons.dev/icons?i=ts,next,tailwind,nodejs&theme=dark" alt="techstack"/>
 
-
-----
+<br>
+<br>
 
 <table align="center">
 <tr>
@@ -81,4 +74,7 @@
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitranjan-2702&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD" />
 </p>
+
+
+
 
