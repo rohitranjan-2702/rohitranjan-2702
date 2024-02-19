@@ -8,8 +8,6 @@
 
  <img align="right" alt="Coding" width="200" src="https://monophy.com/media/du3J3cXyzhj75IOgvA/monophy.gif">
 
-- 👨🏽‍💻 Full Stack Dev at **@Gizmolab.**
-
 - ✅ Built and shipped **3 projects for clients @Devphilic** 
 
 - 🌱 I’m currently learning **to build scalable systems for web.**
