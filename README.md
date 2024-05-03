@@ -52,8 +52,9 @@
 
 | Project Name | Description | Link | Techstack |
 | ------------ | ----------- | ---- | ---|
-| OpenFlow  | Contribute to open sourcebased upon your techstack. | [Check Out](https://openflow.devphilic.tech/) | <img src="https://skillicons.dev/icons?i=ts,redis,prisma,next,mongodb,tailwind&theme=dark" alt="techstack" />
-| Chat-app  | Anonymopus chat app, to chat anywhere. | [Check Out](https://nextjsapp-u592.onrender.com/chat) |<img src="https://skillicons.dev/icons?i=ts,supabase,next,docker,tailwind&theme=dark" alt="techstack"/>
+| OpenFlow  | Contribute to open source based upon your techstack. | [Check Out](https://openflow.devphilic.tech/) | <img src="https://skillicons.dev/icons?i=ts,redis,prisma,next,mongodb,tailwind&theme=dark" alt="techstack" />
+| Code Playground | Realtime code playground with integrated terminal and preview window | [Check Out](https://github.com/rohitranjan-2702/playground-client) | <img src="https://skillicons.dev/icons?i=ts,next,nodejs,tailwind,nginx,docker,aws&theme=dark" alt="techstack" />
+| Chat-app  | Anonymous chat app, to chat anywhere. | [Check Out](https://nextjsapp-u592.onrender.com/chat) |<img src="https://skillicons.dev/icons?i=ts,supabase,next,docker,tailwind&theme=dark" alt="techstack"/>
 | OS-Pilot | Chat with open-source repos. | [Check Out](#) | <img src="https://skillicons.dev/icons?i=ts,next,tailwind,nodejs&theme=dark" alt="techstack"/>
 
 <br>
