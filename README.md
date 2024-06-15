@@ -31,7 +31,7 @@
 <h3 align="left">Skills and Techstacks:</h3>
 
 | Languages | <img src="https://skillicons.dev/icons?i=ts,js,cpp,java,go,python&theme=dark" alt="techstack" /> 
-| ------------ | ----------- | ---- | ---|
+| ------------ | ----------- |
 |Frontend | <img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind&theme=dark" alt="techstack" />
 |Backend | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,express,bun&theme=dark" alt="techstack" />
 |Testing| <img src="https://skillicons.dev/icons?i=jest,vitest&theme=dark" alt="techstack" />
