@@ -1,3 +1,4 @@
+
  <img align="center" alt="Banner" width="1000" src="https://res.cloudinary.com/dsea9iqab/image/upload/v1704891215/nmcjvfy1mmwh2pn3clcz.png">
 <h1 align="center">Hi 👋, I'm Rohit Ranjan Singh</h1>
 <h3 align="center">A full-stack developer from India</h3>
@@ -27,25 +28,16 @@
 <a href="https://instagram.com/rohit.2702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_rohit_0_0" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="90" height="40"/> </a> 
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="nodejs" width="90" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/js_discord/js_discord-ar21.svg" alt="discordjs" width="90" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="expressjs" width="90" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git-scm" width="90" height="40"/>
- <img src="https://upload.vectorlogo.zone/logos/nextjs/images/2d3864ef-00e0-4026-ab1d-30e4a98e2899.svg" alt="NextJs" width="80" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" width="90" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/mapbox/mapbox-ar21.svg" alt="firebase" width="80" height="40"/>
-  <img src="https://miro.medium.com/v2/resize:fit:853/1*1DBe4cCQYfpM0oNXl_kH2w.png" alt="firebase" width="120" height="40"/>
-   <img src="https://miro.medium.com/v2/0*kjf1UIfQrTgv_jEw.png" alt="firebase" width="100" height="40"/>
-    <img src="https://skillicons.dev/icons?i=nextjs,react,redux,js,ts,redis,aws,kafka,docker,kubernetes,mysql,postgres,prisma,mongodb,supabase,jest,vitest&theme=light" alt="techstack" />
-</p>
+<h3 align="left">Skills and Techstacks:</h3>
+
+| Languages | <img src="https://skillicons.dev/icons?i=ts,js,cpp,java,go,python&theme=dark" alt="techstack" /> 
+| ------------ | ----------- | ---- | ---|
+|Frontend | <img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind&theme=dark" alt="techstack" />
+|Backend | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,express,bun&theme=dark" alt="techstack" />
+|Testing| <img src="https://skillicons.dev/icons?i=jest,vitest&theme=dark" alt="techstack" />
+|Databases| <img src="https://skillicons.dev/icons?i=redis,prisma,supabase,mongodb,postgres,mysql&theme=dark" alt="techstack" />
+|Cloud | <img src="https://skillicons.dev/icons?i=docker,aws,kubernetes,azure,kafka,nginx,workers&theme=dark" alt="techstack" /> 
+|Others| <img src="https://miro.medium.com/v2/resize:fit:853/1*1DBe4cCQYfpM0oNXl_kH2w.png" alt="firebase" width="120" height="40"/>  <img src="https://miro.medium.com/v2/0*kjf1UIfQrTgv_jEw.png" alt="firebase" width="100" height="40"/><img src="https://skillicons.dev/icons?i=discordjs&theme=dark" alt="techstack" />
 
 
 <br>
