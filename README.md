@@ -44,7 +44,7 @@
  <img src="https://www.vectorlogo.zone/logos/mapbox/mapbox-ar21.svg" alt="firebase" width="80" height="40"/>
   <img src="https://miro.medium.com/v2/resize:fit:853/1*1DBe4cCQYfpM0oNXl_kH2w.png" alt="firebase" width="120" height="40"/>
    <img src="https://miro.medium.com/v2/0*kjf1UIfQrTgv_jEw.png" alt="firebase" width="100" height="40"/>
-    <img src="https://skillicons.dev/icons?i=azure,postman,ts,redis,aws,mysql,postgres,prisma,docker,mongodb,redux,supabase,vercel,vitest&theme=light" alt="techstack" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,redux,js,ts,redis,aws,kafka,docker,kubernetes,mysql,postgres,prisma,mongodb,supabase,jest,vitest&theme=light" alt="techstack" />
 </p>
 
 
