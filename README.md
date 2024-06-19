@@ -9,7 +9,7 @@
 
  <img align="right" alt="Coding" width="200" src="https://monophy.com/media/du3J3cXyzhj75IOgvA/monophy.gif">
 
-- 👨🏽‍💻 Portfolio : <a href="https://rohit.devphilic.tech/">**RoHiT.tech** </a>
+- 👨🏽‍💻 Portfolio : <a href="https://rohit2702.vercel.app/">**RoHiT.tech** </a>
 
 - ✅ Built and shipped **3 projects for clients @Devphilic** 
 
