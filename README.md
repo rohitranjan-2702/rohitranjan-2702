@@ -9,7 +9,7 @@
 
  <img align="right" alt="Coding" width="200" src="https://monophy.com/media/du3J3cXyzhj75IOgvA/monophy.gif">
 
-- 👨🏽‍💻 Portfolio : <a href="https://rohit2702.vercel.app/">**RoHiT.tech** </a>
+- 👨🏽‍💻 Portfolio : <a href="https://rohit2702.vercel.app/">**RoHiT.tech**</a>
 
 - ✅ Built and shipped **3 projects for clients @Devphilic** 
 
@@ -17,7 +17,7 @@
 
 - 🚀 Building <a href="https://openflow.devphilic.tech/">**OpenFlow** </a> 
 
-- 📫 How to reach me **rohitranjan2702@gmail.com**
+- 📫 How to reach me <a href="mailto:rohitranjan2702@gmail.com"> **rohitranjan2702@gmail.com** </a> 
 
 - ⚡ Fun fact **I'm just the way I am.**
 
