@@ -1,5 +1,4 @@
-
- <img align="center" alt="Banner" width="1000" src="https://res.cloudinary.com/dsea9iqab/image/upload/v1704891215/nmcjvfy1mmwh2pn3clcz.png">
+<img align="center" alt="Banner" width="1000" src="https://res.cloudinary.com/dsea9iqab/image/upload/v1704891215/nmcjvfy1mmwh2pn3clcz.png">
 <h1 align="center">Hi 👋, I'm Rohit Ranjan Singh</h1>
 <h3 align="center">A full-stack developer from India</h3>
 
@@ -11,9 +10,11 @@
 
 - 👨🏽‍💻 Portfolio : <a href="https://rohit2702.vercel.app/">**RoHiT.tech**</a>
 
-- ✅ Built and shipped **3 projects for clients @Devphilic** 
+- 😎 Backend & Cloud: **@**  <a href="https://www.cautio.in/">**Cautio.in**</a>
 
-- 🌱 I’m currently learning **to build scalable systems for web.**
+- ✅ Built and shipped **5+ projects for clients @Devphilic** 
+
+- 🌱 I’m currently learning **to build scalable systems.**
 
 - 🚀 Building <a href="https://openflow.devphilic.tech/">**OpenFlow** </a> 
 
@@ -67,7 +68,3 @@
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitranjan-2702&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD" />
 </p>
-
-
-
-
