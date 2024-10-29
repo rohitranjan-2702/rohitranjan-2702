@@ -51,7 +51,7 @@
 | Code Playground | Realtime code playground with integrated terminal and preview window | [Check Out](https://github.com/rohitranjan-2702/playground-client) | <img src="https://skillicons.dev/icons?i=ts,next,nodejs,tailwind,nginx,docker,aws&theme=dark" alt="techstack" />
 | Chat-app  | Anonymous chat app, to chat anywhere. | [Check Out](https://nextjsapp-u592.onrender.com/chat) |<img src="https://skillicons.dev/icons?i=ts,supabase,next,docker,tailwind&theme=dark" alt="techstack"/>
 | OS-Pilot | AI-based agent that helps you research open-source codebases. | [Check Out](#) | <img src="https://skillicons.dev/icons?i=ts,next,tailwind,nodejs&theme=dark" alt="techstack"/>
-| CodeClash | Real-time multiplayer tech-quiz game. | [Check Out](https://github.com/rohitranjan-2702/codeclash-game-backend) | <img src="https://skillicons.dev/icons?i=ts,next,tailwind,nodejs,aws,docker&theme=dark" alt="techstack"/>
+| CodeClash | Real-time multiplayer tech-quiz game. | [Check Out](https://github.com/rohitranjan-2702/codeclash-game-backend) | <img src="https://skillicons.dev/icons?i=ts,next,tailwind,nodejs,aws,kafka,docker&theme=dark" alt="techstack"/>
 
 <br>
 <br>
