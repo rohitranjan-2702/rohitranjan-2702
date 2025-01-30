@@ -6,22 +6,6 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/rohit_2702?style=social)
 
- <img align="right" alt="Coding" width="200" src="https://monophy.com/media/du3J3cXyzhj75IOgvA/monophy.gif">
-
-- 👨🏽‍💻 Portfolio : <a href="https://rohit2702.vercel.app/">**RoHiT.tech**</a>
-
-- 😎 Backend & Cloud: **@**  <a href="https://www.cautio.in/">**Cautio.in**</a>
-
-- ✅ Built and shipped **5+ projects for clients @Devphilic** 
-
-- 🌱 I’m currently learning **to build scalable systems.**
-
-- 🚀 Building <a href="https://open-flow.vercel.app/">**OpenFlow** </a> 
-
-- 📫 How to reach me <a href="mailto:rohitranjan2702@gmail.com"> **rohitranjan2702@gmail.com** </a> 
-
-- ⚡ Fun fact **I'm just the way I am.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rohit_2702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohit_ranjan27" height="30" width="40" /></a>
