@@ -1,6 +1,6 @@
 <img align="center" alt="Banner" width="1000" src="https://res.cloudinary.com/dsea9iqab/image/upload/v1704891215/nmcjvfy1mmwh2pn3clcz.png">
 <h1 align="center">Hi 👋, I'm Rohit Ranjan Singh</h1>
-<h3 align="center">A full-stack developer from India</h3>
+<h3 align="center">A software engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzrohit-coder&label=Profile%20views&color=0e75b6&style=flat" alt="itzrohit-coder" /></p>
 
