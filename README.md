@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitranjan-2702&label=Profile%20views&color=0e75b6&style=flat" alt="rohitranjan-2702" /></p>
 <p align="left">
 <a href="https://twitter.com/rohit_2702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohit_ranjan27" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rohit-ranjan-singh-6133901b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-ranjan-singh-6133901b6/" height="30" width="40" /></a>
